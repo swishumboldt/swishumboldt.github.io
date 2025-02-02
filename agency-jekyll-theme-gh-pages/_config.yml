@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
+url: https://swishumboldt.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: SWIS Humboldt
+email: swis@humboldt.edu
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Lily Yassemi
   pic: 1
-  position: Lead Designer
+  position: President
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Aeryonna Howton
   pic: 2
-  position: Lead Marketer
+  position: Treasurer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Michelle Gledhill 
   pic: 3
-  position: Lead Developer
+  position: Faculty Advisor
   social:
     - title: twitter
       url: #
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 123 Perfect Place
+  - line: Arcata, CA 95521
 
 # Build settings
 markdown: kramdown
