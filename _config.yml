@@ -11,7 +11,7 @@ description: Society of Women in STEM Humboldt
 people:
 - name: Lily Yassemi
   pic: 1
-  position: President
+  position: President - Computer Science Major
   #social:
   #  - title: twitter
   #    url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Aeryonna Howton
   pic: 2
-  position: Treasurer
+  position: Treasurer - Botany Major
   #social:
   #  - title: twitter
   #    url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Michelle Gledhill
   pic: 3
-  position: Faculty Advisor
+  position: Resident Women Expert - Statistics Lecturer
   #social:
   #  - title: twitter
   #    url: #
