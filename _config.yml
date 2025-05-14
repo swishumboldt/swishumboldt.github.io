@@ -9,9 +9,9 @@ description: Society of Women in STEM Humboldt
 
 # Team names, titles and social links
 people:
-- name: Lily Yassemi
+- name: Taylor Buck
   pic: 1
-  position: President - Computer Science Major
+  position: President - Marine Biology & Film
   #social:
   #  - title: twitter
   #    url: #
@@ -20,9 +20,9 @@ people:
   #  - title: stack-overflow
   #    url: #
 
-- name: Aeryonna Howton
+- name: Aja Brunet
   pic: 2
-  position: Treasurer - Botany Major
+  position: Treasurer - Computer Science
   #social:
   #  - title: twitter
   #    url: #
@@ -33,7 +33,7 @@ people:
 
 - name: Michelle Gledhill
   pic: 3
-  position: Resident Women Expert - Statistics Lecturer
+  position: Faculty Advisor - Math
   #social:
   #  - title: twitter
   #    url: #
